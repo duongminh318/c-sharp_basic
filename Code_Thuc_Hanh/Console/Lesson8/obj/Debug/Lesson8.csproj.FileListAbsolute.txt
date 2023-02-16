@@ -1,0 +1,8 @@
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson8\bin\Debug\Lesson8.exe.config
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson8\bin\Debug\Lesson8.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson8\bin\Debug\Lesson8.pdb
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson8\obj\Debug\Lesson8.csproj.AssemblyReference.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson8\obj\Debug\Lesson8.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson8\obj\Debug\Lesson8.csproj.CoreCompileInputs.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson8\obj\Debug\Lesson8.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson8\obj\Debug\Lesson8.pdb

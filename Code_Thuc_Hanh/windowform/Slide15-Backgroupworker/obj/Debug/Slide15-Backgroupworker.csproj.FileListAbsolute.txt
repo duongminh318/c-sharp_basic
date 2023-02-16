@@ -1,0 +1,11 @@
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide15-Backgroupworker\bin\Debug\Slide15-Backgroupworker.exe.config
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide15-Backgroupworker\bin\Debug\Slide15-Backgroupworker.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide15-Backgroupworker\bin\Debug\Slide15-Backgroupworker.pdb
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide15-Backgroupworker\obj\Debug\Slide15-Backgroupworker.csproj.AssemblyReference.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide15-Backgroupworker\obj\Debug\Slide15-Backgroupworker.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide15-Backgroupworker\obj\Debug\Slide15_Backgroupworker.Properties.Resources.resources
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide15-Backgroupworker\obj\Debug\Slide15-Backgroupworker.csproj.GenerateResource.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide15-Backgroupworker\obj\Debug\Slide15-Backgroupworker.csproj.CoreCompileInputs.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide15-Backgroupworker\obj\Debug\Slide15-Backgroupworker.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide15-Backgroupworker\obj\Debug\Slide15-Backgroupworker.pdb
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide15-Backgroupworker\obj\Debug\Slide15_Backgroupworker.frmabc.resources

@@ -1,0 +1,11 @@
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide8-listbox\bin\Debug\Slide8-listbox.exe.config
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide8-listbox\bin\Debug\Slide8-listbox.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide8-listbox\bin\Debug\Slide8-listbox.pdb
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide8-listbox\obj\Debug\Slide8-listbox.csproj.AssemblyReference.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide8-listbox\obj\Debug\Slide8-listbox.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide8-listbox\obj\Debug\Slide8_listbox.Form1.resources
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide8-listbox\obj\Debug\Slide8_listbox.Properties.Resources.resources
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide8-listbox\obj\Debug\Slide8-listbox.csproj.GenerateResource.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide8-listbox\obj\Debug\Slide8-listbox.csproj.CoreCompileInputs.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide8-listbox\obj\Debug\Slide8-listbox.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide8-listbox\obj\Debug\Slide8-listbox.pdb

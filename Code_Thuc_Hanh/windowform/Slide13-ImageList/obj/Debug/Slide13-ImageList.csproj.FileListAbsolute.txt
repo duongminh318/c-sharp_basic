@@ -1,0 +1,11 @@
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide13-ImageList\bin\Debug\Slide13-ImageList.exe.config
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide13-ImageList\bin\Debug\Slide13-ImageList.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide13-ImageList\bin\Debug\Slide13-ImageList.pdb
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide13-ImageList\obj\Debug\Slide13-ImageList.csproj.AssemblyReference.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide13-ImageList\obj\Debug\Slide13-ImageList.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide13-ImageList\obj\Debug\Slide13_ImageList.Form1.resources
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide13-ImageList\obj\Debug\Slide13_ImageList.Properties.Resources.resources
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide13-ImageList\obj\Debug\Slide13-ImageList.csproj.GenerateResource.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide13-ImageList\obj\Debug\Slide13-ImageList.csproj.CoreCompileInputs.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide13-ImageList\obj\Debug\Slide13-ImageList.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide13-ImageList\obj\Debug\Slide13-ImageList.pdb

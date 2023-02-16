@@ -1,0 +1,11 @@
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide4-Container\bin\Debug\Slide4-Container.exe.config
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide4-Container\bin\Debug\Slide4-Container.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide4-Container\bin\Debug\Slide4-Container.pdb
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide4-Container\obj\Debug\Slide4-Container.csproj.AssemblyReference.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide4-Container\obj\Debug\Slide4-Container.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide4-Container\obj\Debug\Slide4_Container.Form1.resources
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide4-Container\obj\Debug\Slide4_Container.Properties.Resources.resources
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide4-Container\obj\Debug\Slide4-Container.csproj.GenerateResource.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide4-Container\obj\Debug\Slide4-Container.csproj.CoreCompileInputs.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide4-Container\obj\Debug\Slide4-Container.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide4-Container\obj\Debug\Slide4-Container.pdb

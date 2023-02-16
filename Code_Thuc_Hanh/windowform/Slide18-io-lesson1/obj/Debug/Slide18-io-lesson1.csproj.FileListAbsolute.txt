@@ -1,0 +1,16 @@
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide18-io-lesson1\bin\Debug\Slide18-io-lesson1.exe.config
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide18-io-lesson1\bin\Debug\Slide18-io-lesson1.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide18-io-lesson1\bin\Debug\Slide18-io-lesson1.pdb
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide18-io-lesson1\obj\Debug\Slide18-io-lesson1.csproj.AssemblyReference.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide18-io-lesson1\obj\Debug\Slide18-io-lesson1.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide18-io-lesson1\obj\Debug\Slide18-io-lesson1.csproj.CoreCompileInputs.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide18-io-lesson1\obj\Debug\Slide18-io-lesson1.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide18-io-lesson1\obj\Debug\Slide18-io-lesson1.pdb
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\Window-Form\Slide18-io-lesson1\bin\Debug\Slide18-io-lesson1.exe.config
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\Window-Form\Slide18-io-lesson1\bin\Debug\Slide18-io-lesson1.exe
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\Window-Form\Slide18-io-lesson1\bin\Debug\Slide18-io-lesson1.pdb
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\Window-Form\Slide18-io-lesson1\obj\Debug\Slide18-io-lesson1.csproj.AssemblyReference.cache
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\Window-Form\Slide18-io-lesson1\obj\Debug\Slide18-io-lesson1.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\Window-Form\Slide18-io-lesson1\obj\Debug\Slide18-io-lesson1.csproj.CoreCompileInputs.cache
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\Window-Form\Slide18-io-lesson1\obj\Debug\Slide18-io-lesson1.exe
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\Window-Form\Slide18-io-lesson1\obj\Debug\Slide18-io-lesson1.pdb

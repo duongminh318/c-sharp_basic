@@ -1,0 +1,11 @@
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide10-ChekedListBox\bin\Debug\Slide10-ChekedListBox.exe.config
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide10-ChekedListBox\bin\Debug\Slide10-ChekedListBox.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide10-ChekedListBox\bin\Debug\Slide10-ChekedListBox.pdb
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide10-ChekedListBox\obj\Debug\Slide10-ChekedListBox.csproj.AssemblyReference.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide10-ChekedListBox\obj\Debug\Slide10-ChekedListBox.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide10-ChekedListBox\obj\Debug\Slide10_ChekedListBox.Form1.resources
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide10-ChekedListBox\obj\Debug\Slide10_ChekedListBox.Properties.Resources.resources
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide10-ChekedListBox\obj\Debug\Slide10-ChekedListBox.csproj.GenerateResource.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide10-ChekedListBox\obj\Debug\Slide10-ChekedListBox.csproj.CoreCompileInputs.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide10-ChekedListBox\obj\Debug\Slide10-ChekedListBox.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide10-ChekedListBox\obj\Debug\Slide10-ChekedListBox.pdb

@@ -1,0 +1,11 @@
+D:\LEARNING\LEARNING_CODE\C#_WF\ex- backgroupworker\bin\Debug\ex- backgroupworker.exe.config
+D:\LEARNING\LEARNING_CODE\C#_WF\ex- backgroupworker\bin\Debug\ex- backgroupworker.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\ex- backgroupworker\bin\Debug\ex- backgroupworker.pdb
+D:\LEARNING\LEARNING_CODE\C#_WF\ex- backgroupworker\obj\Debug\ex- backgroupworker.csproj.AssemblyReference.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\ex- backgroupworker\obj\Debug\ex- backgroupworker.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\ex- backgroupworker\obj\Debug\ex__backgroupworker.Form1.resources
+D:\LEARNING\LEARNING_CODE\C#_WF\ex- backgroupworker\obj\Debug\ex__backgroupworker.Properties.Resources.resources
+D:\LEARNING\LEARNING_CODE\C#_WF\ex- backgroupworker\obj\Debug\ex- backgroupworker.csproj.GenerateResource.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\ex- backgroupworker\obj\Debug\ex- backgroupworker.csproj.CoreCompileInputs.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\ex- backgroupworker\obj\Debug\ex- backgroupworker.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\ex- backgroupworker\obj\Debug\ex- backgroupworker.pdb

@@ -1,0 +1,11 @@
+D:\LEARNING\LEARNING_CODE\C#_WF\slide2\bin\Debug\slide2.exe.config
+D:\LEARNING\LEARNING_CODE\C#_WF\slide2\bin\Debug\slide2.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\slide2\bin\Debug\slide2.pdb
+D:\LEARNING\LEARNING_CODE\C#_WF\slide2\obj\Debug\slide2.csproj.AssemblyReference.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\slide2\obj\Debug\slide2.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\slide2\obj\Debug\slide2.Form1.resources
+D:\LEARNING\LEARNING_CODE\C#_WF\slide2\obj\Debug\slide2.Properties.Resources.resources
+D:\LEARNING\LEARNING_CODE\C#_WF\slide2\obj\Debug\slide2.csproj.GenerateResource.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\slide2\obj\Debug\slide2.csproj.CoreCompileInputs.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\slide2\obj\Debug\slide2.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\slide2\obj\Debug\slide2.pdb

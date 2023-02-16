@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slide8-ex", "Slide8-ex.csproj", "{52FC6BBD-0C38-4166-9D8D-6C26C5E9940D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52FC6BBD-0C38-4166-9D8D-6C26C5E9940D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52FC6BBD-0C38-4166-9D8D-6C26C5E9940D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52FC6BBD-0C38-4166-9D8D-6C26C5E9940D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52FC6BBD-0C38-4166-9D8D-6C26C5E9940D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {702D7FC5-27C2-435A-B732-B93B45B0B5FF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson22-oop3\bin\Debug\Lesson22-oop3.exe.config
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson22-oop3\bin\Debug\Lesson22-oop3.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson22-oop3\bin\Debug\Lesson22-oop3.pdb
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson22-oop3\obj\Debug\Lesson22-oop3.csproj.AssemblyReference.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson22-oop3\obj\Debug\Lesson22-oop3.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson22-oop3\obj\Debug\Lesson22-oop3.csproj.CoreCompileInputs.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson22-oop3\obj\Debug\Lesson22-oop3.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson22-oop3\obj\Debug\Lesson22-oop3.pdb

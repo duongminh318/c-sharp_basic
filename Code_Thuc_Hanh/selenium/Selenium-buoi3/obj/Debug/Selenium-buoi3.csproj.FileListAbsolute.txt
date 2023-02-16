@@ -1,0 +1,16 @@
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\selenium\Selenium-buoi3\bin\Debug\selenium-manager\linux\selenium-manager
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\selenium\Selenium-buoi3\bin\Debug\selenium-manager\macos\selenium-manager
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\selenium\Selenium-buoi3\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\selenium\Selenium-buoi3\bin\Debug\Selenium-buoi3.exe.config
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\selenium\Selenium-buoi3\bin\Debug\Selenium-buoi3.exe
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\selenium\Selenium-buoi3\bin\Debug\Selenium-buoi3.pdb
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\selenium\Selenium-buoi3\bin\Debug\WebDriver.dll
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\selenium\Selenium-buoi3\obj\Debug\Selenium-buoi3.csproj.AssemblyReference.cache
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\selenium\Selenium-buoi3\obj\Debug\Selenium-buoi3.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\selenium\Selenium-buoi3\obj\Debug\Selenium_buoi3.Form1.resources
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\selenium\Selenium-buoi3\obj\Debug\Selenium_buoi3.Properties.Resources.resources
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\selenium\Selenium-buoi3\obj\Debug\Selenium-buoi3.csproj.GenerateResource.cache
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\selenium\Selenium-buoi3\obj\Debug\Selenium-buoi3.csproj.CoreCompileInputs.cache
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\selenium\Selenium-buoi3\obj\Debug\Selenium-buoi3.csproj.CopyComplete
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\selenium\Selenium-buoi3\obj\Debug\Selenium-buoi3.exe
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\selenium\Selenium-buoi3\obj\Debug\Selenium-buoi3.pdb

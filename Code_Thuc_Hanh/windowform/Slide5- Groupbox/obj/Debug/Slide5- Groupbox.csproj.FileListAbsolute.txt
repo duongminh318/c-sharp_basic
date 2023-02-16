@@ -1,0 +1,11 @@
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide5- Groupbox\bin\Debug\Slide5- Groupbox.exe.config
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide5- Groupbox\bin\Debug\Slide5- Groupbox.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide5- Groupbox\bin\Debug\Slide5- Groupbox.pdb
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide5- Groupbox\obj\Debug\Slide5- Groupbox.csproj.AssemblyReference.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide5- Groupbox\obj\Debug\Slide5- Groupbox.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide5- Groupbox\obj\Debug\Slide5__Groupbox.Form1.resources
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide5- Groupbox\obj\Debug\Slide5__Groupbox.Properties.Resources.resources
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide5- Groupbox\obj\Debug\Slide5- Groupbox.csproj.GenerateResource.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide5- Groupbox\obj\Debug\Slide5- Groupbox.csproj.CoreCompileInputs.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide5- Groupbox\obj\Debug\Slide5- Groupbox.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide5- Groupbox\obj\Debug\Slide5- Groupbox.pdb

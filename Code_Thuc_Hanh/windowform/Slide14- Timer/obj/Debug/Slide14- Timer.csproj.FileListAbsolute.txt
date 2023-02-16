@@ -1,0 +1,11 @@
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide14- Timer\bin\Debug\Slide14- Timer.exe.config
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide14- Timer\bin\Debug\Slide14- Timer.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide14- Timer\bin\Debug\Slide14- Timer.pdb
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide14- Timer\obj\Debug\Slide14- Timer.csproj.AssemblyReference.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide14- Timer\obj\Debug\Slide14- Timer.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide14- Timer\obj\Debug\Slide14__Timer.Form1.resources
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide14- Timer\obj\Debug\Slide14__Timer.Properties.Resources.resources
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide14- Timer\obj\Debug\Slide14- Timer.csproj.GenerateResource.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide14- Timer\obj\Debug\Slide14- Timer.csproj.CoreCompileInputs.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide14- Timer\obj\Debug\Slide14- Timer.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide14- Timer\obj\Debug\Slide14- Timer.pdb

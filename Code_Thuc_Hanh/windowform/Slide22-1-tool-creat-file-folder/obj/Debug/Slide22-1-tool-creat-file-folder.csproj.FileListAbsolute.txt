@@ -1,0 +1,11 @@
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide22-1-tool-creat-file-folder\bin\Debug\Slide22-1-tool-creat-file-folder.exe.config
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide22-1-tool-creat-file-folder\bin\Debug\Slide22-1-tool-creat-file-folder.exe
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide22-1-tool-creat-file-folder\bin\Debug\Slide22-1-tool-creat-file-folder.pdb
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide22-1-tool-creat-file-folder\obj\Debug\Slide22-1-tool-creat-file-folder.csproj.AssemblyReference.cache
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide22-1-tool-creat-file-folder\obj\Debug\Slide22-1-tool-creat-file-folder.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide22-1-tool-creat-file-folder\obj\Debug\Slide22_1_tool_creat_file_folder.Form1.resources
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide22-1-tool-creat-file-folder\obj\Debug\Slide22_1_tool_creat_file_folder.Properties.Resources.resources
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide22-1-tool-creat-file-folder\obj\Debug\Slide22-1-tool-creat-file-folder.csproj.GenerateResource.cache
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide22-1-tool-creat-file-folder\obj\Debug\Slide22-1-tool-creat-file-folder.csproj.CoreCompileInputs.cache
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide22-1-tool-creat-file-folder\obj\Debug\Slide22-1-tool-creat-file-folder.exe
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide22-1-tool-creat-file-folder\obj\Debug\Slide22-1-tool-creat-file-folder.pdb

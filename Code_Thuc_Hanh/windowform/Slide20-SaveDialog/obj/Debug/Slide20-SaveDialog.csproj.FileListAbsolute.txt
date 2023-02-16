@@ -1,0 +1,11 @@
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide20-SaveDialog\bin\Debug\Slide20-SaveDialog.exe.config
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide20-SaveDialog\bin\Debug\Slide20-SaveDialog.exe
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide20-SaveDialog\bin\Debug\Slide20-SaveDialog.pdb
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide20-SaveDialog\obj\Debug\Slide20-SaveDialog.csproj.AssemblyReference.cache
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide20-SaveDialog\obj\Debug\Slide20-SaveDialog.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide20-SaveDialog\obj\Debug\Slide20_SaveDialog.Form1.resources
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide20-SaveDialog\obj\Debug\Slide20_SaveDialog.Properties.Resources.resources
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide20-SaveDialog\obj\Debug\Slide20-SaveDialog.csproj.GenerateResource.cache
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide20-SaveDialog\obj\Debug\Slide20-SaveDialog.csproj.CoreCompileInputs.cache
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide20-SaveDialog\obj\Debug\Slide20-SaveDialog.exe
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide20-SaveDialog\obj\Debug\Slide20-SaveDialog.pdb

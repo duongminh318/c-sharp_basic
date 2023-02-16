@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slide10-ex", "Slide10-ex.csproj", "{04C068CD-CAC9-4342-97D9-31657E5A37F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04C068CD-CAC9-4342-97D9-31657E5A37F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04C068CD-CAC9-4342-97D9-31657E5A37F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04C068CD-CAC9-4342-97D9-31657E5A37F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04C068CD-CAC9-4342-97D9-31657E5A37F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAFBB4E5-7977-4E8F-B403-2FE4D9DE7CBB}
+	EndGlobalSection
+EndGlobal

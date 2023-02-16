@@ -1,0 +1,11 @@
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide19-openfileDialog\bin\Debug\Slide19-openfileDialog.exe.config
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide19-openfileDialog\bin\Debug\Slide19-openfileDialog.exe
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide19-openfileDialog\bin\Debug\Slide19-openfileDialog.pdb
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide19-openfileDialog\obj\Debug\Slide19-openfileDialog.csproj.AssemblyReference.cache
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide19-openfileDialog\obj\Debug\Slide19-openfileDialog.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide19-openfileDialog\obj\Debug\Slide19_openfileDialog.Form1.resources
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide19-openfileDialog\obj\Debug\Slide19_openfileDialog.Properties.Resources.resources
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide19-openfileDialog\obj\Debug\Slide19-openfileDialog.csproj.GenerateResource.cache
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide19-openfileDialog\obj\Debug\Slide19-openfileDialog.csproj.CoreCompileInputs.cache
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide19-openfileDialog\obj\Debug\Slide19-openfileDialog.exe
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide19-openfileDialog\obj\Debug\Slide19-openfileDialog.pdb

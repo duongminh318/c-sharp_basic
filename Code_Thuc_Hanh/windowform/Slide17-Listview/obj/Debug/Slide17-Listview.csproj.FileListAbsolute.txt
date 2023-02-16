@@ -1,0 +1,11 @@
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide17-Listview\bin\Debug\Slide17-Listview.exe.config
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide17-Listview\bin\Debug\Slide17-Listview.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide17-Listview\bin\Debug\Slide17-Listview.pdb
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide17-Listview\obj\Debug\Slide17-Listview.csproj.AssemblyReference.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide17-Listview\obj\Debug\Slide17-Listview.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide17-Listview\obj\Debug\Slide17_Listview.Form1.resources
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide17-Listview\obj\Debug\Slide17_Listview.Properties.Resources.resources
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide17-Listview\obj\Debug\Slide17-Listview.csproj.GenerateResource.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide17-Listview\obj\Debug\Slide17-Listview.csproj.CoreCompileInputs.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide17-Listview\obj\Debug\Slide17-Listview.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide17-Listview\obj\Debug\Slide17-Listview.pdb

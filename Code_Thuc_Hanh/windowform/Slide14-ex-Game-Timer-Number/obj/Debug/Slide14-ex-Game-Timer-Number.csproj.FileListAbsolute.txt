@@ -1,0 +1,11 @@
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide14-ex-Game-Timer-Number\bin\Debug\Slide14-ex-Game-Timer-Number.exe.config
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide14-ex-Game-Timer-Number\bin\Debug\Slide14-ex-Game-Timer-Number.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide14-ex-Game-Timer-Number\bin\Debug\Slide14-ex-Game-Timer-Number.pdb
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide14-ex-Game-Timer-Number\obj\Debug\Slide14-ex-Game-Timer-Number.csproj.AssemblyReference.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide14-ex-Game-Timer-Number\obj\Debug\Slide14-ex-Game-Timer-Number.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide14-ex-Game-Timer-Number\obj\Debug\Slide14_ex_Game_Timer_Number.Form1.resources
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide14-ex-Game-Timer-Number\obj\Debug\Slide14_ex_Game_Timer_Number.Properties.Resources.resources
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide14-ex-Game-Timer-Number\obj\Debug\Slide14-ex-Game-Timer-Number.csproj.GenerateResource.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide14-ex-Game-Timer-Number\obj\Debug\Slide14-ex-Game-Timer-Number.csproj.CoreCompileInputs.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide14-ex-Game-Timer-Number\obj\Debug\Slide14-ex-Game-Timer-Number.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide14-ex-Game-Timer-Number\obj\Debug\Slide14-ex-Game-Timer-Number.pdb

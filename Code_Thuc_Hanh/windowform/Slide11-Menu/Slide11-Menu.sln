@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slide11-Menu", "Slide11-Menu.csproj", "{B6303F27-7250-4E27-B546-084EBEB80874}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6303F27-7250-4E27-B546-084EBEB80874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6303F27-7250-4E27-B546-084EBEB80874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6303F27-7250-4E27-B546-084EBEB80874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6303F27-7250-4E27-B546-084EBEB80874}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A716D3E-9509-4CCB-819E-AE8BF6D62ADA}
+	EndGlobalSection
+EndGlobal

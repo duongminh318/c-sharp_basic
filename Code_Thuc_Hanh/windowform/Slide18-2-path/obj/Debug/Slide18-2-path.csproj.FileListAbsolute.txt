@@ -1,0 +1,8 @@
+D:\LEARNING\LEARNING_CODE\nhap\Slide18-2-path\bin\Debug\Slide18-2-path.exe.config
+D:\LEARNING\LEARNING_CODE\nhap\Slide18-2-path\bin\Debug\Slide18-2-path.exe
+D:\LEARNING\LEARNING_CODE\nhap\Slide18-2-path\bin\Debug\Slide18-2-path.pdb
+D:\LEARNING\LEARNING_CODE\nhap\Slide18-2-path\obj\Debug\Slide18-2-path.csproj.AssemblyReference.cache
+D:\LEARNING\LEARNING_CODE\nhap\Slide18-2-path\obj\Debug\Slide18-2-path.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\LEARNING_CODE\nhap\Slide18-2-path\obj\Debug\Slide18-2-path.csproj.CoreCompileInputs.cache
+D:\LEARNING\LEARNING_CODE\nhap\Slide18-2-path\obj\Debug\Slide18-2-path.exe
+D:\LEARNING\LEARNING_CODE\nhap\Slide18-2-path\obj\Debug\Slide18-2-path.pdb

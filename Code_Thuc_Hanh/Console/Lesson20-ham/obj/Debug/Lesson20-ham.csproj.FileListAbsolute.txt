@@ -1,0 +1,16 @@
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson20-ham\bin\Debug\Lesson20-ham.exe.config
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson20-ham\bin\Debug\Lesson20-ham.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson20-ham\bin\Debug\Lesson20-ham.pdb
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson20-ham\obj\Debug\Lesson20-ham.csproj.AssemblyReference.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson20-ham\obj\Debug\Lesson20-ham.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson20-ham\obj\Debug\Lesson20-ham.csproj.CoreCompileInputs.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson20-ham\obj\Debug\Lesson20-ham.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson20-ham\obj\Debug\Lesson20-ham.pdb
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\Console\Lesson20-ham\bin\Debug\Lesson20-ham.exe.config
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\Console\Lesson20-ham\bin\Debug\Lesson20-ham.exe
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\Console\Lesson20-ham\bin\Debug\Lesson20-ham.pdb
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\Console\Lesson20-ham\obj\Debug\Lesson20-ham.csproj.AssemblyReference.cache
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\Console\Lesson20-ham\obj\Debug\Lesson20-ham.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\Console\Lesson20-ham\obj\Debug\Lesson20-ham.csproj.CoreCompileInputs.cache
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\Console\Lesson20-ham\obj\Debug\Lesson20-ham.exe
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\Console\Lesson20-ham\obj\Debug\Lesson20-ham.pdb

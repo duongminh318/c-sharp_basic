@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slide14- Timer", "Slide14- Timer.csproj", "{8CF34A56-C7D3-4809-9A0A-79A99FA870ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CF34A56-C7D3-4809-9A0A-79A99FA870ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CF34A56-C7D3-4809-9A0A-79A99FA870ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CF34A56-C7D3-4809-9A0A-79A99FA870ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CF34A56-C7D3-4809-9A0A-79A99FA870ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEB3A04B-09DC-45F4-AEA9-B90DAE7DDBF6}
+	EndGlobalSection
+EndGlobal

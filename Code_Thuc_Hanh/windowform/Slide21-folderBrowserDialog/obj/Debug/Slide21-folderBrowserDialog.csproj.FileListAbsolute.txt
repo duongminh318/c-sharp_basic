@@ -1,0 +1,11 @@
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide21-folderBrowserDialog\bin\Debug\Slide21-folderBrowserDialog.exe.config
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide21-folderBrowserDialog\bin\Debug\Slide21-folderBrowserDialog.exe
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide21-folderBrowserDialog\bin\Debug\Slide21-folderBrowserDialog.pdb
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide21-folderBrowserDialog\obj\Debug\Slide21-folderBrowserDialog.csproj.AssemblyReference.cache
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide21-folderBrowserDialog\obj\Debug\Slide21-folderBrowserDialog.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide21-folderBrowserDialog\obj\Debug\Slide21_folderBrowserDialog.Form1.resources
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide21-folderBrowserDialog\obj\Debug\Slide21_folderBrowserDialog.Properties.Resources.resources
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide21-folderBrowserDialog\obj\Debug\Slide21-folderBrowserDialog.csproj.GenerateResource.cache
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide21-folderBrowserDialog\obj\Debug\Slide21-folderBrowserDialog.csproj.CoreCompileInputs.cache
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide21-folderBrowserDialog\obj\Debug\Slide21-folderBrowserDialog.exe
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\windowform\Slide21-folderBrowserDialog\obj\Debug\Slide21-folderBrowserDialog.pdb

@@ -1,0 +1,11 @@
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide7-datetime\bin\Debug\Slide7-datetime.exe.config
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide7-datetime\bin\Debug\Slide7-datetime.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide7-datetime\bin\Debug\Slide7-datetime.pdb
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide7-datetime\obj\Debug\Slide7-datetime.csproj.AssemblyReference.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide7-datetime\obj\Debug\Slide7-datetime.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide7-datetime\obj\Debug\Slide7_datetime.Form1.resources
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide7-datetime\obj\Debug\Slide7_datetime.Properties.Resources.resources
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide7-datetime\obj\Debug\Slide7-datetime.csproj.GenerateResource.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide7-datetime\obj\Debug\Slide7-datetime.csproj.CoreCompileInputs.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide7-datetime\obj\Debug\Slide7-datetime.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide7-datetime\obj\Debug\Slide7-datetime.pdb

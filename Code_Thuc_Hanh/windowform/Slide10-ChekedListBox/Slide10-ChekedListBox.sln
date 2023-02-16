@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slide10-ChekedListBox", "Slide10-ChekedListBox.csproj", "{073000CB-9990-4983-8D82-516A8FDB5257}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{073000CB-9990-4983-8D82-516A8FDB5257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{073000CB-9990-4983-8D82-516A8FDB5257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{073000CB-9990-4983-8D82-516A8FDB5257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{073000CB-9990-4983-8D82-516A8FDB5257}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {157A1E11-D608-41A6-97B0-66678E8B8F17}
+	EndGlobalSection
+EndGlobal

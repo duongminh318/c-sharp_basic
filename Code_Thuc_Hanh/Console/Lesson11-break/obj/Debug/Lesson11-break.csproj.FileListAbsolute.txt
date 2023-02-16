@@ -1,0 +1,8 @@
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson11-break\bin\Debug\Lesson11-break.exe.config
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson11-break\bin\Debug\Lesson11-break.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson11-break\bin\Debug\Lesson11-break.pdb
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson11-break\obj\Debug\Lesson11-break.csproj.AssemblyReference.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson11-break\obj\Debug\Lesson11-break.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson11-break\obj\Debug\Lesson11-break.csproj.CoreCompileInputs.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson11-break\obj\Debug\Lesson11-break.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson11-break\obj\Debug\Lesson11-break.pdb

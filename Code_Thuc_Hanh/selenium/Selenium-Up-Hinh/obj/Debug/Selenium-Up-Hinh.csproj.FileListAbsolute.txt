@@ -1,0 +1,16 @@
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\selenium\Selenium-Up-Hinh\bin\Debug\selenium-manager\linux\selenium-manager
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\selenium\Selenium-Up-Hinh\bin\Debug\selenium-manager\macos\selenium-manager
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\selenium\Selenium-Up-Hinh\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\selenium\Selenium-Up-Hinh\bin\Debug\Selenium-Up-Hinh.exe.config
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\selenium\Selenium-Up-Hinh\bin\Debug\Selenium-Up-Hinh.exe
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\selenium\Selenium-Up-Hinh\bin\Debug\Selenium-Up-Hinh.pdb
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\selenium\Selenium-Up-Hinh\bin\Debug\WebDriver.dll
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\selenium\Selenium-Up-Hinh\obj\Debug\Selenium-Up-Hinh.csproj.AssemblyReference.cache
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\selenium\Selenium-Up-Hinh\obj\Debug\Selenium-Up-Hinh.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\selenium\Selenium-Up-Hinh\obj\Debug\Selenium_Up_Hinh.Form1.resources
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\selenium\Selenium-Up-Hinh\obj\Debug\Selenium_Up_Hinh.Properties.Resources.resources
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\selenium\Selenium-Up-Hinh\obj\Debug\Selenium-Up-Hinh.csproj.GenerateResource.cache
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\selenium\Selenium-Up-Hinh\obj\Debug\Selenium-Up-Hinh.csproj.CoreCompileInputs.cache
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\selenium\Selenium-Up-Hinh\obj\Debug\Selenium-Up-Hinh.csproj.CopyComplete
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\selenium\Selenium-Up-Hinh\obj\Debug\Selenium-Up-Hinh.exe
+D:\LEARNING\LEARNING_CODE\C#-Basic\Code_Thuc_Hanh\selenium\Selenium-Up-Hinh\obj\Debug\Selenium-Up-Hinh.pdb

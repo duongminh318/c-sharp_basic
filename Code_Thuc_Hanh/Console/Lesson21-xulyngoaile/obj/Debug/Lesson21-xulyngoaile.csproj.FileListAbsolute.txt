@@ -1,0 +1,8 @@
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson21-xulyngoaile\bin\Debug\Lesson21-xulyngoaile.exe.config
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson21-xulyngoaile\bin\Debug\Lesson21-xulyngoaile.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson21-xulyngoaile\bin\Debug\Lesson21-xulyngoaile.pdb
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson21-xulyngoaile\obj\Debug\Lesson21-xulyngoaile.csproj.AssemblyReference.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson21-xulyngoaile\obj\Debug\Lesson21-xulyngoaile.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson21-xulyngoaile\obj\Debug\Lesson21-xulyngoaile.csproj.CoreCompileInputs.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson21-xulyngoaile\obj\Debug\Lesson21-xulyngoaile.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson21-xulyngoaile\obj\Debug\Lesson21-xulyngoaile.pdb

@@ -1,0 +1,11 @@
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide5-ex-Box\bin\Debug\Slide5-ex-Box.exe.config
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide5-ex-Box\bin\Debug\Slide5-ex-Box.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide5-ex-Box\bin\Debug\Slide5-ex-Box.pdb
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide5-ex-Box\obj\Debug\Slide5-ex-Box.csproj.AssemblyReference.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide5-ex-Box\obj\Debug\Slide5-ex-Box.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide5-ex-Box\obj\Debug\Slide5_ex_Box.Form1.resources
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide5-ex-Box\obj\Debug\Slide5_ex_Box.Properties.Resources.resources
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide5-ex-Box\obj\Debug\Slide5-ex-Box.csproj.GenerateResource.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide5-ex-Box\obj\Debug\Slide5-ex-Box.csproj.CoreCompileInputs.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide5-ex-Box\obj\Debug\Slide5-ex-Box.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide5-ex-Box\obj\Debug\Slide5-ex-Box.pdb

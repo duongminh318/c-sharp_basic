@@ -1,0 +1,8 @@
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson14-char\bin\Debug\Lesson14-char.exe.config
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson14-char\bin\Debug\Lesson14-char.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson14-char\bin\Debug\Lesson14-char.pdb
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson14-char\obj\Debug\Lesson14-char.csproj.AssemblyReference.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson14-char\obj\Debug\Lesson14-char.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson14-char\obj\Debug\Lesson14-char.csproj.CoreCompileInputs.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson14-char\obj\Debug\Lesson14-char.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson14-char\obj\Debug\Lesson14-char.pdb

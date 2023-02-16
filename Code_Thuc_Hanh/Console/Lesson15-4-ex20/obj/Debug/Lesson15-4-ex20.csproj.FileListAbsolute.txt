@@ -1,0 +1,8 @@
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson15-4-ex20\bin\Debug\Lesson15-4-ex20.exe.config
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson15-4-ex20\bin\Debug\Lesson15-4-ex20.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson15-4-ex20\bin\Debug\Lesson15-4-ex20.pdb
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson15-4-ex20\obj\Debug\Lesson15-4-ex20.csproj.AssemblyReference.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson15-4-ex20\obj\Debug\Lesson15-4-ex20.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson15-4-ex20\obj\Debug\Lesson15-4-ex20.csproj.CoreCompileInputs.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson15-4-ex20\obj\Debug\Lesson15-4-ex20.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Lesson15-4-ex20\obj\Debug\Lesson15-4-ex20.pdb

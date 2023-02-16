@@ -1,0 +1,11 @@
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide6-Pic-Sound-Box\bin\Debug\Slide6-Pic-Sound-Box.exe.config
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide6-Pic-Sound-Box\bin\Debug\Slide6-Pic-Sound-Box.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide6-Pic-Sound-Box\bin\Debug\Slide6-Pic-Sound-Box.pdb
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide6-Pic-Sound-Box\obj\Debug\Slide6-Pic-Sound-Box.csproj.AssemblyReference.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide6-Pic-Sound-Box\obj\Debug\Slide6-Pic-Sound-Box.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide6-Pic-Sound-Box\obj\Debug\Slide6_Pic_Sound_Box.Form1.resources
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide6-Pic-Sound-Box\obj\Debug\Slide6_Pic_Sound_Box.Properties.Resources.resources
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide6-Pic-Sound-Box\obj\Debug\Slide6-Pic-Sound-Box.csproj.GenerateResource.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide6-Pic-Sound-Box\obj\Debug\Slide6-Pic-Sound-Box.csproj.CoreCompileInputs.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide6-Pic-Sound-Box\obj\Debug\Slide6-Pic-Sound-Box.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide6-Pic-Sound-Box\obj\Debug\Slide6-Pic-Sound-Box.pdb

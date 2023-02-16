@@ -1,0 +1,11 @@
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide9-Combobox\bin\Debug\Slide9-Combobox.exe.config
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide9-Combobox\bin\Debug\Slide9-Combobox.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide9-Combobox\bin\Debug\Slide9-Combobox.pdb
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide9-Combobox\obj\Debug\Slide9-Combobox.csproj.AssemblyReference.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide9-Combobox\obj\Debug\Slide9-Combobox.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide9-Combobox\obj\Debug\Slide9_Combobox.Form1.resources
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide9-Combobox\obj\Debug\Slide9_Combobox.Properties.Resources.resources
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide9-Combobox\obj\Debug\Slide9-Combobox.csproj.GenerateResource.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide9-Combobox\obj\Debug\Slide9-Combobox.csproj.CoreCompileInputs.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide9-Combobox\obj\Debug\Slide9-Combobox.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide9-Combobox\obj\Debug\Slide9-Combobox.pdb

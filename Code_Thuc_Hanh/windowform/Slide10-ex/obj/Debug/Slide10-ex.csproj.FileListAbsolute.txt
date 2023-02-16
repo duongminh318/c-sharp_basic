@@ -1,0 +1,11 @@
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide10-ex\bin\Debug\Slide10-ex.exe.config
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide10-ex\bin\Debug\Slide10-ex.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide10-ex\bin\Debug\Slide10-ex.pdb
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide10-ex\obj\Debug\Slide10-ex.csproj.AssemblyReference.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide10-ex\obj\Debug\Slide10-ex.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide10-ex\obj\Debug\Slide10_ex.Form1.resources
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide10-ex\obj\Debug\Slide10_ex.Properties.Resources.resources
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide10-ex\obj\Debug\Slide10-ex.csproj.GenerateResource.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide10-ex\obj\Debug\Slide10-ex.csproj.CoreCompileInputs.cache
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide10-ex\obj\Debug\Slide10-ex.exe
+D:\LEARNING\LEARNING_CODE\C#_WF\Slide10-ex\obj\Debug\Slide10-ex.pdb
