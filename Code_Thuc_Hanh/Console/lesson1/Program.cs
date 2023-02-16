@@ -22,6 +22,7 @@ namespace lesson1
             Console.Write(300);
             //  Console.ReadLine();
             Console.ReadKey();
+            // viet cai gi do
         }
     }
 }
